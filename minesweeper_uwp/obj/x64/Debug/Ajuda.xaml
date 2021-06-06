@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="minesweeper_uwp.Ajuda"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:minesweeper_uwp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="433">
+
+    <Grid Background="#FFFFC080" Margin="0,0,0,0">
+        <TextBlock x:ConnectionId='2' x:Name="textBlock" HorizontalAlignment="Left" Margin="43,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="308" Width="954" FontSize="20" Foreground="Black"><Run Text="Campo  Minado  é  um  videojogopara  um  jogador.  O  objetivo  do  jogo  é limpar  um  tabuleiro  retangular  contendo  minas (bombas  ocultas)sem detonar nenhuma delas, com a ajuda de pistas sobre o número de minas vizinhas em cada campo. "/><Run/><LineBreak/><Run Text="Cada quadrado  pode  ser  revelado  clicando  sobre  ele,  e  se  o  quadrado  clicado contiver uma mina, então o jogo acaba. Se, por outro lado, o quadrado não contiver uma mina, uma de duas coisas poderá acontecer: "/><LineBreak/><Run Text="-&gt;Um   número   aparece,   indicando   a   quantidade   de   quadrados adjacentes que contêm minas; "/><Run Text="    "/><LineBreak/><Run Text="-&gt;Nenhum número aparece. Neste caso, o jogo revela automaticamente  os  quadrados  que  se  encontram  adjacentes  ao quadrado vazio, já que não podem conter minas; O jogador pode marcar qualquer quadrado que acredita que contém uma mina com uma bandeira(bastando para isso clicar sobre ele com  o  botão  direito  do rato). O  jogo  é  ganho  quando  todos  os  quadrados  que  não  têm  minas  são revelados. "/></TextBlock>
+        <TextBlock x:ConnectionId='3' x:Name="textBlock1" HorizontalAlignment="Left" Margin="43,10,0,0" Text="Regras:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="25" Foreground="Black"/>
+        <Button x:ConnectionId='4' x:Name="buttonSair" Content="Ok!" Margin="415,383,0,0" VerticalAlignment="Top" Height="39" Width="150" Foreground="Black" Background="White" BorderBrush="Black" BorderThickness="1"                         />
+
+    </Grid>
+</Page>
+

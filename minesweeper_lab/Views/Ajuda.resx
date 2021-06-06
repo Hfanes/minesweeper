@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>Campo  Minado  é  um  videojogo para  um  jogador.  O  objetivo  do  jogo  é limpar  um  tabuleiro  retangular  contendo  "minas" (bombas  ocultas)sem detonar nenhuma delas, com a ajuda de pistas sobre o número de minas vizinhas em cada campo.
+Cada quadrado  pode  ser  revelado  clicando  sobre  ele,  e  se  o  quadrado  clicado contiver uma mina, então o jogo acaba. Se, por outro lado, o quadrado não contiver uma mina, uma de duas coisas poderá acontecer:
+-&gt;Um   número   aparece,   indicando   a   quantidade   de   quadrados adjacentes que contêm minas;
+-&gt;Nenhum número aparece. Neste caso, o jogo revela automaticamente  os  quadrados  que  se  encontram  adjacentes  ao quadrado vazio, já que não podem conter minas;
+O jogador pode marcar qualquer quadrado que acredita que contém uma mina com uma bandeira(bastando para isso clicar sobre ele com  o  botão  direito  do rato).
+O  jogo  é  ganho  quando  todos  os  quadrados  que  não  têm  minas  são revelados.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAADW//8As5+eAL7N0Qm6racquaSaS7mnnVW7s69DwMnNIMrr9wTF3uoA9f//AAAA
+        AAAAAAAAAAAAAAAAAAC7sasAvMnMA7mPfDm7gmiZvn1g1cF9X+vAfmDvvIFl5biLdcS5pZt5wcbJIPL/
+        /wDF1NsAAAAAAAAAAAC7lIMAuaKXBLx/Y2TDfFzizYFg/9KFZP/UiGj/1otr/9WMa//QiGf/wIFj+beV
+        hba/v78zmDQDAMHExgC+k38AxVAcAL56XFvIfl3v04dn/9iTdf/luKT/57yq/+i+q//ovar/36CD/9yY
+        eP/GhWb+t5WFtsHGySHAv78AvnhZAL13WCPIfl3W1Ytr/9eObv/cnH//8dfM//78+//+/Pv/89vP/+Oo
+        jP/hoIL/4KCC/8KGaPm4pJp5zvz/BMl8WgDEeVlz0olp/9mScv/alHX/25Z3/+Gnjf/89fL//Pbz/+Wu
+        lP/io4X/5KaJ/+aqjf/Zmnv/uIx3xMDIzCC0ZUQHyoBgstmTdP/cl3j/3Zp7/96bff/krJL//Pbz//z2
+        8//os5r/5aiL/+esj//or5L/56yP/8CJbuW5sKtEvG5NFM+HZ83dmXv/3p1+/+Cfgf/hoYL/5rCW//z2
+        8//99/T/6rif/+iukf/qsZX/67SY/+y2mf/IjnHvtqKZVb1uTRTRimrN4J+B/+GihP/jpYf/5auO/+7I
+        tf/9+ff//ff0/+29pP/rtJf/7beb/+66nv/vu5//ypBz67Wek0uzXj0H0IhpsuKjhf/lqIr/5qqM/+m0
+        mf/01sf/9tzP//XZyv/vvaP/7rqe//C9of/ywKT/8L2h/8WMcNW1pZ4q041uAMuBYnHfoIP/6K6R/+mw
+        k//qspb/7LWZ//LKtf/zzLf/8L6i//LApP/zwqf/9car/+axlP+7hWuZu9jmCMZ6WgDDdVUf1pJz0umx
+        lP/stpn/7bib//DBqP/99fH//fby//TJsP/1xar/9siu//XGq//PlHbhs4hzOa9iPQDEd1cA1JFyAMh+
+        XlDcnH7p7bic//G/o//ywqj/+d7O//rg0P/3yrD/+cyx//bJrv/aoILvuX1hZbj//wK/uLQAAAAAAL9v
+        TwCmSCYByH5eT9iYetPps5b+8sKm//bHrP/3yq//9smu/+y6nv7VmHnXunhZW6mKfQSzh3MAAAAAAAAA
+        AAAAAAAArlY1AP///wDAcVEfy4RkcdWTdbLanX7O2p1+ztKSc7PEfl1zsmpJIlhGSACgZ08AAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAYwwBAAAAAACkSSYHsFs3FK1YNBSaPxwHAAAAAFAGAAAAAAAAAAAAAAAA
+        AAAAAAAA+A8AAOADAADAAwAAwAEAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAQAAwAEAAMAD
+        AADwBwAA+B8AAA==
+</value>
+  </data>
+</root>

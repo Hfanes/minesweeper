@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{792BE1FE-4FD7-4BE0-8C9F-F66A9DE87DFE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>minesweeper_lab</RootNamespace>
+    <AssemblyName>minesweeper_lab</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.universalwindowsplatform\6.2.9\ref\uap10.0.15138\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\MainController.cs" />
+    <Compile Include="Models\CustomForms\GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\LeaderBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\LeaderBoard.Designer.cs">
+      <DependentUpon>LeaderBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UserRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\UserRequest.Designer.cs">
+      <DependentUpon>UserRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MSFacil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MSFacil.Designer.cs">
+      <DependentUpon>MSFacil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Perfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Perfil.Designer.cs">
+      <DependentUpon>Perfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Registar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Registar.Designer.cs">
+      <DependentUpon>Registar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MSMedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MSMedio.designer.cs">
+      <DependentUpon>MSMedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Ajuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Ajuda.Designer.cs">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Views\LeaderBoard.resx">
+      <DependentUpon>LeaderBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\UserRequest.resx">
+      <DependentUpon>UserRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MSFacil.resx">
+      <DependentUpon>MSFacil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MSMedio.resx">
+      <DependentUpon>MSMedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\Ajuda.resx">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Perfil.resx">
+      <DependentUpon>Perfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Registar.resx">
+      <DependentUpon>Registar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common_Library\Common_Library.csproj">
+      <Project>{77850112-45e5-4f10-8c23-3be0be547e85}</Project>
+      <Name>Common_Library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1200px-Information_icon.svg.ico" />
+    <Content Include="Resources\flag.png" />
+    <Content Include="Resources\mina.png" />
+    <Content Include="Resources\open1.gif" />
+    <Content Include="Resources\open2.gif" />
+    <Content Include="Resources\open3.gif" />
+    <Content Include="Resources\open4.gif" />
+    <Content Include="Resources\open5.gif" />
+    <Content Include="Resources\open6.gif" />
+    <Content Include="Resources\open7.gif" />
+    <Content Include="Resources\open8.gif" />
+    <Content Include="Resources\registoicon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

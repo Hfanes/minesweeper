@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7lVh+k39B0Z5YOshJfBJvdjAZ3s+uefmp1a+N05tIr9dRyqopCljzeX4meKgaML7k9RVqAdJOPJG5OH2xF/7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROG\\Google Drive\\uni\\2ºano\\2º Semestre\\lab\\minesweeper_lab\\Common_Library\\Common_Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

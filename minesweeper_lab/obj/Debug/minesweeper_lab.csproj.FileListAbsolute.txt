@@ -1,0 +1,166 @@
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Form1.resources
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\ROG\source\repos\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSJogo.resources
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Form1.resources
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\bin\Debug\Library_Common.dll
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\bin\Debug\Library_Common.pdb
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CopyComplete
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\ROG\Desktop\lab\projeto\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Form1.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Registar.resources
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Form1.resources
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Registar.resources
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\luisr\OneDrive\Área de Trabalho\Faculdade\2ºano\2º Semestre\Laborátorio de Planeamento e Desenvolvimento de Software\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.dll
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.pdb
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.LeaderBoard.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.UserRequest.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Login.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Menu.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Perfil.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Registar.resources
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CopyComplete
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.dll
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\System.Runtime.dll
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.pdb
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\bin\Debug\System.Runtime.xml
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.LeaderBoard.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.UserRequest.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Login.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Menu.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Perfil.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Registar.resources
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CopyComplete
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\alex-\Desktop\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.dll
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.pdb
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.LeaderBoard.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.UserRequest.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Login.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Menu.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Perfil.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Registar.resources
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CopyComplete
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.LeaderBoard.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.UserRequest.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Login.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Menu.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Perfil.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Registar.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CopyComplete
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe.config
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.exe
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\bin\Debug\minesweeper_lab.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\bin\Debug\Common_Library.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csprojAssemblyReference.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.LeaderBoard.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.UserRequest.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Login.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.MSFacil.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Medio.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Properties.Resources.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Ajuda.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Menu.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Perfil.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.Views.Registar.resources
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.GenerateResource.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.csproj.CopyComplete
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.exe
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\obj\Debug\minesweeper_lab.pdb

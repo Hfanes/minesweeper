@@ -1,0 +1,45 @@
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.deps.json
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfo.cs
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.deps.json
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.dll
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csprojAssemblyReference.cache
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfoInputs.cache
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfo.cs
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.dll
+C:\Users\alex-\Desktop\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\ROG\Desktop\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.deps.json
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfo.cs
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.deps.json
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csprojAssemblyReference.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfoInputs.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfo.cs
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\minesweeper_lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.deps.json
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\bin\Debug\netstandard2.0\Common_Library.pdb
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csprojAssemblyReference.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfoInputs.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.AssemblyInfo.cs
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.dll
+C:\Users\ROG\Google Drive\uni\2ºano\2º Semestre\lab\minesweeper_lab\Common_Library\obj\Debug\netstandard2.0\Common_Library.pdb

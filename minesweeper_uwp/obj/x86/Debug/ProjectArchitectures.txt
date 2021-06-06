@@ -1,0 +1,1 @@
+C:\Users\ROG\Desktop\apresentaçao(notas)\minesweeper_lab\minesweeper_uwp\minesweeper_uwp.csproj;x86
